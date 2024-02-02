@@ -4,6 +4,7 @@
   font-family: 'Roboto', sans-serif;
 }
 
+
 *,
 *::before,
 *::after {
@@ -20,6 +21,7 @@ body {
 
 img {
   display: block;
+
 }
 
 /* Reset some default styles */
@@ -55,6 +57,8 @@ header {
   display: flex;
   align-items: center;
 }
+
+
 
 .profile-image {
   width: 100%;
@@ -149,11 +153,13 @@ main {
 .gallery-item {
   position: relative;
   overflow: hidden;
-  border-radius: 10px;
+  border-top-left-radius:10px ;
+  border-bottom-right-radius: 10px;
   box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
   transition: transform 0.2s, box-shadow 0.3s; /* Add transition for box-shadow */
   cursor: pointer;
 }
+
 
 .gallery-item:hover {
   transform: scale(1.05);
@@ -165,6 +171,7 @@ main {
   height: 100%;
   object-fit: cover;
 }
+
 
 .gallery-item-info {
   position: absolute;
@@ -188,7 +195,7 @@ main {
 
 .gallery-item-info li {
   margin: 0 1rem;
-  font-size: 10px;
+  font-size: 11px;
   display: flex;
   align-items: center;
   justify-content: space-between;
