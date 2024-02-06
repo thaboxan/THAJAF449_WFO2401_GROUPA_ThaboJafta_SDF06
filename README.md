@@ -17,3 +17,5 @@ Styling Elements: Demonstrated competence in styling elements using CSS to enhan
 *Creative Design Choices*: Seek to expand creativity and experiment with innovative design choices to elevate the overall aesthetic appeal and uniqueness of the project.
 ### **Overall Learning Experience**
 The project provided valuable opportunities to deepen understanding and proficiency in CSS layout techniques, responsive design, and element styling. Despite facing challenges, overcoming them contributed to a richer learning experience. Moving forward, there is a commitment to continuous improvement and exploration of advanced concepts to further enhance skills and creativity in web development.
+
+https://www.loom.com/share/a526a9bc51494548b95a315f8f39cbb4?sid=20e24943-0251-428b-ba76-fbc0e0617e3a
